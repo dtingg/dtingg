@@ -1,4 +1,4 @@
-<img align="left" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub logo" height="150">
+<img align="left" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub logo" height="120">
 
 ## Hi, my name is dtingg (or Dianna) 👋
 
