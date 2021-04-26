@@ -1,6 +1,6 @@
 <img align="left" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub logo" height="125">
 
-## Hi, my name is dtingg (or Dianna) 👋
+## Hi, my name is Dianna (or dtingg) 👋
 
 I'm a software engineer at GitHub :octocat: on the Developer Confidence team.
 
