@@ -1,7 +1,9 @@
-<img align="left" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub logo" height="125">
+<img align="left" src="https://user-images.githubusercontent.com/35247305/138361992-350a8ceb-1b67-45a4-9c38-5a95dffae1c0.gif" alt="Octocat" height="200">
 
 ## Hi, my name is Dianna (or dtingg) 👋
 
-I'm a software engineer at GitHub :octocat: on the Developer Confidence team.
+I'm a Software Engineer at GitHub :octocat: on the Developer Confidence team.
 
-I live in Seattle ☔ &nbsp;and in my spare time I like swimming 🏊‍♀️, wearing Crocs 🐊, and going to Build-A-Bear 🧸.
+I ❤️ Ruby, Python, JavaScript, and React.
+
+I live in Seattle ☔ &nbsp;and I like swimming 🏊‍♀️, wearing Crocs 🐊, and going to Build-A-Bear 🧸.
