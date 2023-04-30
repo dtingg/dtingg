@@ -2,7 +2,7 @@
 
 ## Hi, my name is Dianna (or dtingg) 👋
 
-I'm a Software Engineer at GitHub :octocat: on the Developer Confidence team.
+I'm a Software Engineer at GitHub :octocat: on the Build Systems team.
 
 I ❤️ Ruby, Python, JavaScript, and React.
 
