@@ -2,8 +2,8 @@
 
 ## Hi, my name is Dianna (or dtingg) 👋
 
-I'm a Software Engineer at GitHub on the Build Systems team 👷‍♀️.
+I'm a Software Engineer at GitHub on the Build Systems team 👩‍💻.
 
-I ❤️ Ruby, Python, JavaScript, and React.
+I ❤️ Ruby, Rails, and Python.
 
-I live in Seattle ☔ &nbsp;and I like swimming 🏊‍♀️, wearing Crocs 🐊, and going to Build-A-Bear 🧸.
+I live in Seattle ☔ &nbsp;and I like swimming 🏊‍♀️, wearing Crocs 🐊, and building Lego sets 🧱️.
