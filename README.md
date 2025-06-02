@@ -2,7 +2,7 @@
 
 ### Hi, my name is Dianna (or dtingg) 👋
 
-I'm a Software Engineer at GitHub on the Build Systems team 👩‍💻.
+I'm a Senior Software Engineer at GitHub on the Build Systems team 👩‍💻.
 
 I ❤️ Ruby, Rails, and Python.
 
