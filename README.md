@@ -6,4 +6,4 @@ I'm a Senior Software Engineer at GitHub on the Build Systems team 👩‍💻.
 
 I ❤️ Ruby, Rails, and Python.
 
-I live in Seattle ☔ &nbsp;and I like swimming 🏊‍♀️, wearing Crocs 🐊, and building Lego sets 🧱️.
+I live in Seattle ☔ and I like swimming 🏊‍♀️, wearing Crocs 🐊, and building Lego sets 🧱️.
